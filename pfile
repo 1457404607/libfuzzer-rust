@@ -1,0 +1,16 @@
+debug=true
+checker=ALL
+corp=in
+converage=false
+ctcore-limit=20
+ctcore-timeout=10
+dut=test.bc
+ctcore-arguments="--disable-verify --search=dfs -output-stats=0"
+ptree=true
+fcore-ctf=false
+fcore-timeout=10
+lf-max-input-len=3000
+linkpp=false
+output-dir=out
+refresh=true
+nec=1
